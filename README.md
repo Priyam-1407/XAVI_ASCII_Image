@@ -53,9 +53,6 @@ for row in face:
 * **Matrix Traversal:** Learning how to process 2D arrays efficiently using nested loops.
 * **Image Processing Fundamentals:** Gaining insight into how computers perceive images as grids of intensity values.
 
----
-
-Would you like me to add a **"Future Scope"** section (e.g., adding more players or automating the image-to-matrix conversion)?
 By:
 PRIYAM TIWARI
 AIML
